@@ -1,0 +1,17 @@
+In this analysis of the World Happiness Report dataset for the year 2021
+
+we investigated the connections between various variables and their effect on hapiness scores.
+
+A few vital discoveries and bits of knowledge rose up out of our analysis:
+
+Income and Happiness: There is a positive correlation between income (Logged GDP per capita) and happiness scores (Ladder score).
+
+Freedom and Happiness: Countries where individuals have greater freedom tend to report higher levels of happiness.
+
+Corruption and Happiness: Perceptions of corruption are inversly related with happiness scores. Countries with lower levels of corruption tend to have higher happiness scores.
+
+Generosity and Happiness: Generosity alone does not appear to have a strong impact on happiness scores, because the relation between them is too weak.
+
+This comprehensive analysis of World Happiness data provided valuable insights into the factors influencing happiness across countries. It highlighted the importance of economic prosperity, social support, freedom, and low corruption levels in fostering happiness. The visualizations and rankings offered a clear picture of happiness trends.
+
+Still there is a lot more data insights can be drawn from the dataset.
